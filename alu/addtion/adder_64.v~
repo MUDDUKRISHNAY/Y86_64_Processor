@@ -1,0 +1,30 @@
+`include "fulladder.v"
+module adder_64 (
+    input  signed [63:0] a,
+    input  signed [63:0] b,
+    output signed [63:0] sum,
+    output overflow,
+    output carry
+);
+
+    wire [63:0] c;           
+    assign c[0] = 1'b0;      
+
+    genvar i;
+    generate
+        for (i = 0; i < 63; i = i + 1) begin 
+            fulladder fa (
+                .a(a[i]),
+                .b(b[i]),
+                .c(c[i]),
+                .sum(sum[i]),
+                .carry(c[i+1])
+            );
+        end
+    endgenerate
+
+    assign carry = c[63];
+    assign overflow = c[63] ^ c[62]; 
+
+endmodule
+// alu/addtion/

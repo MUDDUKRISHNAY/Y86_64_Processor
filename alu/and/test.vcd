@@ -1,0 +1,346 @@
+$date
+	Sun May  4 09:32:54 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	10ps
+$end
+$scope module and_tb $end
+$var wire 64 ! ans [63:0] $end
+$var reg 64 " a [63:0] $end
+$var reg 64 # b [63:0] $end
+$scope module andi $end
+$var wire 64 $ a [63:0] $end
+$var wire 64 % b [63:0] $end
+$var wire 64 & ans [63:0] $end
+$scope begin genblk1[0] $end
+$var parameter 2 ' i $end
+$upscope $end
+$scope begin genblk1[1] $end
+$var parameter 2 ( i $end
+$upscope $end
+$scope begin genblk1[2] $end
+$var parameter 3 ) i $end
+$upscope $end
+$scope begin genblk1[3] $end
+$var parameter 3 * i $end
+$upscope $end
+$scope begin genblk1[4] $end
+$var parameter 4 + i $end
+$upscope $end
+$scope begin genblk1[5] $end
+$var parameter 4 , i $end
+$upscope $end
+$scope begin genblk1[6] $end
+$var parameter 4 - i $end
+$upscope $end
+$scope begin genblk1[7] $end
+$var parameter 4 . i $end
+$upscope $end
+$scope begin genblk1[8] $end
+$var parameter 5 / i $end
+$upscope $end
+$scope begin genblk1[9] $end
+$var parameter 5 0 i $end
+$upscope $end
+$scope begin genblk1[10] $end
+$var parameter 5 1 i $end
+$upscope $end
+$scope begin genblk1[11] $end
+$var parameter 5 2 i $end
+$upscope $end
+$scope begin genblk1[12] $end
+$var parameter 5 3 i $end
+$upscope $end
+$scope begin genblk1[13] $end
+$var parameter 5 4 i $end
+$upscope $end
+$scope begin genblk1[14] $end
+$var parameter 5 5 i $end
+$upscope $end
+$scope begin genblk1[15] $end
+$var parameter 5 6 i $end
+$upscope $end
+$scope begin genblk1[16] $end
+$var parameter 6 7 i $end
+$upscope $end
+$scope begin genblk1[17] $end
+$var parameter 6 8 i $end
+$upscope $end
+$scope begin genblk1[18] $end
+$var parameter 6 9 i $end
+$upscope $end
+$scope begin genblk1[19] $end
+$var parameter 6 : i $end
+$upscope $end
+$scope begin genblk1[20] $end
+$var parameter 6 ; i $end
+$upscope $end
+$scope begin genblk1[21] $end
+$var parameter 6 < i $end
+$upscope $end
+$scope begin genblk1[22] $end
+$var parameter 6 = i $end
+$upscope $end
+$scope begin genblk1[23] $end
+$var parameter 6 > i $end
+$upscope $end
+$scope begin genblk1[24] $end
+$var parameter 6 ? i $end
+$upscope $end
+$scope begin genblk1[25] $end
+$var parameter 6 @ i $end
+$upscope $end
+$scope begin genblk1[26] $end
+$var parameter 6 A i $end
+$upscope $end
+$scope begin genblk1[27] $end
+$var parameter 6 B i $end
+$upscope $end
+$scope begin genblk1[28] $end
+$var parameter 6 C i $end
+$upscope $end
+$scope begin genblk1[29] $end
+$var parameter 6 D i $end
+$upscope $end
+$scope begin genblk1[30] $end
+$var parameter 6 E i $end
+$upscope $end
+$scope begin genblk1[31] $end
+$var parameter 6 F i $end
+$upscope $end
+$scope begin genblk1[32] $end
+$var parameter 7 G i $end
+$upscope $end
+$scope begin genblk1[33] $end
+$var parameter 7 H i $end
+$upscope $end
+$scope begin genblk1[34] $end
+$var parameter 7 I i $end
+$upscope $end
+$scope begin genblk1[35] $end
+$var parameter 7 J i $end
+$upscope $end
+$scope begin genblk1[36] $end
+$var parameter 7 K i $end
+$upscope $end
+$scope begin genblk1[37] $end
+$var parameter 7 L i $end
+$upscope $end
+$scope begin genblk1[38] $end
+$var parameter 7 M i $end
+$upscope $end
+$scope begin genblk1[39] $end
+$var parameter 7 N i $end
+$upscope $end
+$scope begin genblk1[40] $end
+$var parameter 7 O i $end
+$upscope $end
+$scope begin genblk1[41] $end
+$var parameter 7 P i $end
+$upscope $end
+$scope begin genblk1[42] $end
+$var parameter 7 Q i $end
+$upscope $end
+$scope begin genblk1[43] $end
+$var parameter 7 R i $end
+$upscope $end
+$scope begin genblk1[44] $end
+$var parameter 7 S i $end
+$upscope $end
+$scope begin genblk1[45] $end
+$var parameter 7 T i $end
+$upscope $end
+$scope begin genblk1[46] $end
+$var parameter 7 U i $end
+$upscope $end
+$scope begin genblk1[47] $end
+$var parameter 7 V i $end
+$upscope $end
+$scope begin genblk1[48] $end
+$var parameter 7 W i $end
+$upscope $end
+$scope begin genblk1[49] $end
+$var parameter 7 X i $end
+$upscope $end
+$scope begin genblk1[50] $end
+$var parameter 7 Y i $end
+$upscope $end
+$scope begin genblk1[51] $end
+$var parameter 7 Z i $end
+$upscope $end
+$scope begin genblk1[52] $end
+$var parameter 7 [ i $end
+$upscope $end
+$scope begin genblk1[53] $end
+$var parameter 7 \ i $end
+$upscope $end
+$scope begin genblk1[54] $end
+$var parameter 7 ] i $end
+$upscope $end
+$scope begin genblk1[55] $end
+$var parameter 7 ^ i $end
+$upscope $end
+$scope begin genblk1[56] $end
+$var parameter 7 _ i $end
+$upscope $end
+$scope begin genblk1[57] $end
+$var parameter 7 ` i $end
+$upscope $end
+$scope begin genblk1[58] $end
+$var parameter 7 a i $end
+$upscope $end
+$scope begin genblk1[59] $end
+$var parameter 7 b i $end
+$upscope $end
+$scope begin genblk1[60] $end
+$var parameter 7 c i $end
+$upscope $end
+$scope begin genblk1[61] $end
+$var parameter 7 d i $end
+$upscope $end
+$scope begin genblk1[62] $end
+$var parameter 7 e i $end
+$upscope $end
+$scope begin genblk1[63] $end
+$var parameter 7 f i $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+b111111 f
+b111110 e
+b111101 d
+b111100 c
+b111011 b
+b111010 a
+b111001 `
+b111000 _
+b110111 ^
+b110110 ]
+b110101 \
+b110100 [
+b110011 Z
+b110010 Y
+b110001 X
+b110000 W
+b101111 V
+b101110 U
+b101101 T
+b101100 S
+b101011 R
+b101010 Q
+b101001 P
+b101000 O
+b100111 N
+b100110 M
+b100101 L
+b100100 K
+b100011 J
+b100010 I
+b100001 H
+b100000 G
+b11111 F
+b11110 E
+b11101 D
+b11100 C
+b11011 B
+b11010 A
+b11001 @
+b11000 ?
+b10111 >
+b10110 =
+b10101 <
+b10100 ;
+b10011 :
+b10010 9
+b10001 8
+b10000 7
+b1111 6
+b1110 5
+b1101 4
+b1100 3
+b1011 2
+b1010 1
+b1001 0
+b1000 /
+b111 .
+b110 -
+b101 ,
+b100 +
+b11 *
+b10 )
+b1 (
+b0 '
+$end
+#0
+$dumpvars
+b1111111111111111111111111111111111111111111111111111111111111111 &
+b1111111111111111111111111111111111111111111111111111111111111111 %
+b1111111111111111111111111111111111111111111111111111111111111111 $
+b1111111111111111111111111111111111111111111111111111111111111111 #
+b1111111111111111111111111111111111111111111111111111111111111111 "
+b1111111111111111111111111111111111111111111111111111111111111111 !
+$end
+#500
+b1111111111111111111111111111111111111111111111111111111111111110 !
+b1111111111111111111111111111111111111111111111111111111111111110 &
+b1111111111111111111111111111111111111111111111111111111111111110 #
+b1111111111111111111111111111111111111111111111111111111111111110 %
+b1111111111111111111111111111111111111111111111111111111111111110 "
+b1111111111111111111111111111111111111111111111111111111111111110 $
+#1000
+b1111111111111111111111111111111111111111111111111111111111111101 !
+b1111111111111111111111111111111111111111111111111111111111111101 &
+b1111111111111111111111111111111111111111111111111111111111111101 #
+b1111111111111111111111111111111111111111111111111111111111111101 %
+b1111111111111111111111111111111111111111111111111111111111111101 "
+b1111111111111111111111111111111111111111111111111111111111111101 $
+#1500
+b1111111111111111111111111111111111111111111111111111111111111100 !
+b1111111111111111111111111111111111111111111111111111111111111100 &
+b1111111111111111111111111111111111111111111111111111111111111100 #
+b1111111111111111111111111111111111111111111111111111111111111100 %
+b1111111111111111111111111111111111111111111111111111111111111100 "
+b1111111111111111111111111111111111111111111111111111111111111100 $
+#2000
+b1111111111111111111111111111111111111111111111111111111111111011 !
+b1111111111111111111111111111111111111111111111111111111111111011 &
+b1111111111111111111111111111111111111111111111111111111111111011 #
+b1111111111111111111111111111111111111111111111111111111111111011 %
+b1111111111111111111111111111111111111111111111111111111111111011 "
+b1111111111111111111111111111111111111111111111111111111111111011 $
+#2500
+b1 !
+b1 &
+b1111111111111111111111111111111111111111111111111111111111111111 #
+b1111111111111111111111111111111111111111111111111111111111111111 %
+b1 "
+b1 $
+#3000
+b0 !
+b0 &
+b101010101010101010101010101010101010101010101010101010101010101 #
+b101010101010101010101010101010101010101010101010101010101010101 %
+b1010101010101010101010101010101010101010101010101010101010101010 "
+b1010101010101010101010101010101010101010101010101010101010101010 $
+#3500
+b111100001111000011110000111100001111000011110000111100001111 #
+b111100001111000011110000111100001111000011110000111100001111 %
+b1111000011110000111100001111000011110000111100001111000011110000 "
+b1111000011110000111100001111000011110000111100001111000011110000 $
+#4000
+b1111111111111111111111111111111111111111111111111111111111111111 #
+b1111111111111111111111111111111111111111111111111111111111111111 %
+b0 "
+b0 $
+#4500
+b0 #
+b0 %
+b1111111111111111111111111111111111111111111111111111111111111111 "
+b1111111111111111111111111111111111111111111111111111111111111111 $
+#5000
